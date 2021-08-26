@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TheAvengers</string>
+
+    <string name="phone_number">Enter Phone Number</string>
+    <string name="enter_password">Enter password</string>
+    <string name="log_in">Log In</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="register_user">Register User</string>
+    <string name="odinson_thor">Odinson Thor</string>
+    <string name="asgardhell_hello">Asgardhell@hello</string>
+    <string name="detectivewidow_hello">DetectiveWidow@hello</string>
+</resources>
